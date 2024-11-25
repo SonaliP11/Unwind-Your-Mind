@@ -11,13 +11,12 @@
 
     body {
         font-family: var(--primary-font);
-         font-size: 1rem;
+         /*font-size: 1rem;
          line-height: 1.6;
          color: black;
          margin: 0;
          padding: 0;
-         box-sizing: border-box;
-         background-color: #f4f4f4;
+         background-color: #f4f4f4;*/
             }
  
     h1,
@@ -109,4 +108,19 @@ h4 {
    /* Style the modal*/
    .modal-content {
            color: black;
+   }
+
+   /* Style the footer */
+.footer {
+   padding: 1rem;
+   text-align: center;
+background-color: var(--primary-color);
+  margin-top: auto;
+      color: white;
+}
+
+footer a {
+   color: white;
+   font-size: medium;
+   padding: 0.5rem;
    }

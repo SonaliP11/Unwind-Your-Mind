@@ -16,8 +16,9 @@
     <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
+
 <body class="d-flex flex-column min-vh-100">
-    
+
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light navbar-custom">
         <div class="container">
@@ -52,25 +53,76 @@
 
 
     <!-- Hero Section -->
+    <header class="hero text-center" id="mainContent">
+        <div class="container">
+            <h1 class="display-4">
+                <span class="hero-part-1">Small steps lead to</span>
+                <span class="hero-part-2">BIG CHANGES</span>
+            </h1>
+            <h2 class="lead"><strong>Your mental health is our priority.</strong></h2>
+            <!-- Button trigger modal -->
+            <button type="button" class="btn btn-primary sharp-corners custom-button" data-bs-toggle="modal"
+                data-bs-target="#exampleModal">
+                Get Help!
+            </button>
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <p>If you need help, please fill in your details and we will get in touch with you promptly.
+                            </p>
+
+                            <form class="row g-3">
+                                <div class="col-lg-6">
+                                    <label for="inputName" class="form-label">Name</label>
+                                    <input type="text" class="form-control" id="inputName" required>
+                                </div>
+                                <div class="col-lg-6">
+                                    <label for="inputEmail" class="form-label">Email</label>
+                                    <input type="email" class="form-control" id="inputEmail" required>
+                                </div>
+                                <div class="col-lg-6">
+                                    <label for="inputNumber" class="form-label">Number</label>
+                                    <input type="number" class="form-control" id="inputNumber" required>
+                                </div>
+                                <div class="col-12 mb-4">
+                                    <button type="submit" class="btn btn-primary custom-button">
+                                        Submit!
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
 
 
     <!--Footer-->
-    
-<footer class="footer text-center text-lg-start py-3 mt-auto">
 
-</footer>
-     
-     
-         
-    
-    
+    <footer class="footer text-center text-lg-start py-3 mt-auto">
+
+    </footer>
+
+
+
+
+
     <!-- Bootstrap 5 JS -->
-     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
-     </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
+    </script>
 
-     <!-- Font Awesome JS -->
+    <!-- Font Awesome JS -->
     <script src="https://kit.fontawesome.com/b3e74170fe.js" crossorigin="anonymous"></script>
 
 </body>
+
 </html>

@@ -47,7 +47,14 @@ h4 {
 .navbar-nav {
    display: flex;
    gap: 1rem;
+   justify-content: flex-end;
+   .nav-item:hover {
+      background-color: var(--highlight-color);
+      transform: scale(1.1);
+      transition: transform 0.3s ease-in-out;
+   }
 }
+
 .navbar {
     background-color: var(--primary-color);
     color: white;
@@ -109,4 +116,22 @@ footer a {
    color: white;
    font-size: medium;
    padding: 0.5rem;
+   }
+
+
+/* Responsive styles */
+@media (max-width: 576px) {
+   .navbar-nav .nav-item:hover {
+      background-color: var(--highlight-color);
+      transform: scale(1.1);
+      transition: transform 0.3s ease-in-out;
+   }
+}
+
+   @media (max-width: 768px) {
+      .navbar-nav .nav-item:hover {
+         background-color: var(--highlight-color);
+         transform: scale(1.1);
+         transition: transform 0.3s ease-in-out;
+      }
    }

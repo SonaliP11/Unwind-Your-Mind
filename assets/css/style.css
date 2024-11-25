@@ -16,8 +16,15 @@
 h1 {
     font-family: var(--secondary-font);
     font-size: 3rem;
-    color: var(--primary-color);
+    color: var(--secondary-color);
     margin-bottom: 1rem;
+}
+
+h2 {
+      font-family: var(--secondary-font);
+      font-size: 5rem;
+      color: var(--secondary-color);
+      margin-bottom: 1rem;
 }
 
  /* Make the navbar sticky */
@@ -38,7 +45,7 @@ h1 {
     padding: 0.5rem 1rem;
     font-size: 1.2rem;
     font-weight: bold;
-   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0);
 }
 
    .navbar a {

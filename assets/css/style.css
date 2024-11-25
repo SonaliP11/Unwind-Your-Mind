@@ -12,20 +12,30 @@
     body {
         font-family: var(--primary-font);
     }
-    
-h1 {
+ 
+   
+h1,
+h2
+ {
     font-family: var(--secondary-font);
     font-size: 3rem;
     color: var(--secondary-color);
     margin-bottom: 1rem;
 }
-
-h2 {
-      font-family: var(--secondary-font);
-      font-size: 5rem;
-      color: var(--secondary-color);
-      margin-bottom: 1rem;
+   
+h3 {
+    font-family: var(--secondary-font);
+    font-weight: 400;
+    margin-bottom: 1rem;
 }
+
+h4 {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    }
+
+
 
  /* Make the navbar sticky */
  .navbar {

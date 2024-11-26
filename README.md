@@ -46,3 +46,35 @@ This image represents the essence of relaxation and tranquility that "Unwind You
 The colour scheme for "Unwind Your Mind" has been carefully selected to promote a sense of calm and relaxation. 
 
 ![Colour Scheme](assets/images/Color.png)
+
+### Typography
+
+The typography for "Unwind Your Mind" has been chosen to enhance readability and promote a sense of calm. The heading font used is **Outfit**, and the body font is **Funnel Sans**.
+
+![Typography](assets/images/fonts.png)
+
+### Wireframes
+
+Wireframes are used in the design process to create a visual guide that represents the skeletal framework of the website. They help in planning the layout and structure of the website, ensuring that all elements are placed logically and efficiently. Wireframes are essential for identifying potential usability issues early in the design process and for communicating the design vision to stakeholders.
+
+Below are my wireframes design of home page for different screen sizes:
+
+
+#### Laptop
+
+The wireframe for the laptop version of the homepage is designed to provide a comprehensive view of the website's features and content. It includes a navigation bar at the top, a large hero image, and sections for sessions, tips and support. 
+
+![Wireframes](assets/images/Laptop-home.png)
+
+
+#### Tablet
+
+The wireframe for the tablet version of the homepage is designed to provide an optimal viewing experience on medium-sized screens. It includes a simplified navigation bar, a prominent hero image, and well-organized sections for featured sessions, tips and support. 
+
+![Wireframes](assets/images/Tablet-home.png)
+
+#### Mobile
+
+The wireframe for the mobile version of the homepage is designed to provide a seamless experience on small screens. It includes a collapsible navigation menu, a prominent hero image, and vertically stacked sections for featured sessions, tips, and support.
+
+![Wireframes](assets/images/Mobile-home.png)

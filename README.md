@@ -103,6 +103,8 @@ The wireframe for the mobile version of the homepage is designed to provide a se
 - **Unsplash**: Used for sourcing high-quality, royalty-free images to enhance the visual appeal of the website.
 - **Google Images**: Used for finding images and inspiration for the website's design.
 - **Snipping Tool**: Used for capturing screenshots during the development process.
+- **Chat GPT**: Used for creating user stories
+- **Copilot**: Used in some coding
 
 A great tip for this section is to include them as you use them, that way you won't forget what you ended up using when you get to the end of your project.
 
@@ -136,14 +138,39 @@ A great tip for this section is to include them as you use them, that way you wo
  I have conducted manual testing and Lighthouse testing for each page at various screen sizes to ensure optimal performance and error-free operation.
 
 ### Lighthouse Testing
+#### Desktop
+
+![Lighthouse Desktop Home](assets/images/lighthouse-desktop-index.png)
+![Lighthouse Desktop Tips](assets/images/lighthouse-desktop-tips.png)
+![Lighthouse Desktop Issues](assets/images/lighthouse-desktop-issues.png)
+![Lighthouse Desktop Contact](assets/images/lighthouse-desktop-contact.png)
+
+#### Mobile
+
+![Lighthouse Mobile Home](assets/images/lighthouse-mobile-index.png)
+![Lighthouse Mobile Tips](assets/images/lighthouse-mobile-tips.png)
+![Lighthouse Mobile Issues](assets/images/lighthouse-mobile-issues.png)
+![Lighthouse Mobile Contact](assets/images/lighthouse-mobile-contact.png)
 
 ### Validators
 
 This code has been validated through HTML and CSS validators, and necessary changes have been made accordingly.
  
 #### CSS Validator
+![CSS Validator](assets/images/css-validator.png)
 
 #### HTML Validator
+#### Home Page
+![HTML Validator](assets/images/index-validator.png)
+
+#### Tips Page
+![HTML Validator](assets/images/tips-validator.png)
+
+#### Issues Page
+![HTML Validator](assets/images/issues-validator.png)
+
+#### Contact Page
+![HTML Validator](assets/images/contact-validator.png)
 
 ## Credits
 

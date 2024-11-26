@@ -131,4 +131,21 @@ A great tip for this section is to include them as you use them, that way you wo
 6. Make changes to the code and see the updates in real-time.
 7. Commit and push changes to the repository as needed.
 
+## Testing
+
+ I have conducted manual testing and Lighthouse testing for each page at various screen sizes to ensure optimal performance and error-free operation.
+
+### Lighthouse Testing
+
+### Validators
+
+This code has been validated through HTML and CSS validators, and necessary changes have been made accordingly.
+ 
+#### CSS Validator
+
+#### HTML Validator
+
+## Credits
+
+
 

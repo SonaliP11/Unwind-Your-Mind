@@ -39,6 +39,7 @@ This image represents the essence of relaxation and tranquility that "Unwind You
 - Enjoy a seamless and visually pleasing experience across all devices.
 - Feel relaxed and calm while using the website.
 - Access a variety of resources that cater to different aspects of mental health.
+
 ## Design
 
 ### Colour Scheme
@@ -78,3 +79,30 @@ The wireframe for the tablet version of the homepage is designed to provide an o
 The wireframe for the mobile version of the homepage is designed to provide a seamless experience on small screens. It includes a collapsible navigation menu, a prominent hero image, and vertically stacked sections for featured sessions, tips, and support.
 
 ![Wireframes](assets/images/Mobile-home.png)
+
+
+**This was my initial sketch for the layout. During the design process, I made some minor adjustments without changing the overall design layout.**
+
+## Technologies Used
+
+### Languages Used
+
+- HTML
+- CSS
+
+### Frameworks, Libraries and Programs Used
+
+- **Bootstrap 5.3**: Used for responsive design and styling.
+- **Google Fonts**: Used to import the 'Outfit' and 'Funnel Sans' fonts.
+- **Font Awesome**: Used for icons to enhance the visual appeal.
+- **Git**: Used for version control.
+- **GitHub**: Used to host the repository and deploy the website.
+- **Balsamiq**: Used for creating wireframes.
+- **Google DevTools**: Used for debugging and testing the website.
+- **Am I Responsive**: Used to test the responsiveness of the website across different devices.
+- **Unsplash**: Used for sourcing high-quality, royalty-free images to enhance the visual appeal of the website.
+- **Google Images**: Used for finding images and inspiration for the website's design.
+- **Snipping Tool**: Used for capturing screenshots during the development process.
+
+A great tip for this section is to include them as you use them, that way you won't forget what you ended up using when you get to the end of your project.
+

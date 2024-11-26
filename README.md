@@ -106,3 +106,29 @@ The wireframe for the mobile version of the homepage is designed to provide a se
 
 A great tip for this section is to include them as you use them, that way you won't forget what you ended up using when you get to the end of your project.
 
+## Deployment & Local Development
+
+### Deployment
+
+1. Ensure all changes are committed and pushed to the GitHub repository.
+2. Navigate to the repository on GitHub.
+3. Go to the "Settings" tab.
+4. Scroll down to the "Pages" section.
+5. Under "Source," select the branch you want to deploy from (usually `main`).
+6. Click "Save" and wait for GitHub Pages to build and deploy your site.
+7. Once the deployment is complete, you will see a URL where your site is live.
+
+### Local Development
+
+1. Clone the repository to your local machine using `git clone <repository-url>`.
+2. Navigate to the project directory using `cd Unwind-Your-Mind`.
+3. Open the project in your preferred code editor.
+4. Use a local server to view the project. You can use the Live Server extension in VSCode or run a simple HTTP server using Python:
+    ```bash
+    python -m http.server
+    ```
+5. Open your browser and go to `http://localhost:8000` to view the project locally.
+6. Make changes to the code and see the updates in real-time.
+7. Commit and push changes to the repository as needed.
+
+

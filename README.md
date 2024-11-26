@@ -138,18 +138,32 @@ A great tip for this section is to include them as you use them, that way you wo
  I have conducted manual testing and Lighthouse testing for each page at various screen sizes to ensure optimal performance and error-free operation.
 
 ### Lighthouse Testing
-#### Desktop
+### Desktop
 
+#### Home Page
 ![Lighthouse Desktop Home](assets/images/lighthouse-desktop-index.png)
+
+#### Wellness Tips Page
 ![Lighthouse Desktop Tips](assets/images/lighthouse-desktop-tips.png)
+
+#### Common Issues Page
 ![Lighthouse Desktop Issues](assets/images/lighthouse-desktop-issues.png)
+
+#### Contact Us Page
 ![Lighthouse Desktop Contact](assets/images/lighthouse-desktop-contact.png)
 
-#### Mobile
+### Mobile
 
+#### Home Page
 ![Lighthouse Mobile Home](assets/images/lighthouse-mobile-index.png)
+
+#### Wellness Tips Page
 ![Lighthouse Mobile Tips](assets/images/lighthouse-mobile-tips.png)
+
+#### Common Issues Page
 ![Lighthouse Mobile Issues](assets/images/lighthouse-mobile-issues.png)
+
+#### Contact Us Page
 ![Lighthouse Mobile Contact](assets/images/lighthouse-mobile-contact.png)
 
 ### Validators
@@ -160,16 +174,17 @@ This code has been validated through HTML and CSS validators, and necessary chan
 ![CSS Validator](assets/images/css-validator.png)
 
 #### HTML Validator
+
 #### Home Page
 ![HTML Validator](assets/images/index-validator.png)
 
-#### Tips Page
+#### Wellness Tips Page
 ![HTML Validator](assets/images/tips-validator.png)
 
-#### Issues Page
+#### Common Issues Page
 ![HTML Validator](assets/images/issues-validator.png)
 
-#### Contact Page
+#### Contact Us Page
 ![HTML Validator](assets/images/contact-validator.png)
 
 ## Credits

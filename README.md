@@ -39,3 +39,10 @@ This image represents the essence of relaxation and tranquility that "Unwind You
 - Enjoy a seamless and visually pleasing experience across all devices.
 - Feel relaxed and calm while using the website.
 - Access a variety of resources that cater to different aspects of mental health.
+## Design
+
+### Colour Scheme
+
+The colour scheme for "Unwind Your Mind" has been carefully selected to promote a sense of calm and relaxation. 
+
+![Colour Scheme](assets/images/Color.png)

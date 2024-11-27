@@ -238,14 +238,26 @@ When a user signs up or requests help, they will receive the welcoming email.
 ### Expand Resources or Support Library
 - Increase the variety of motivational quotes, continuously add new articles, tips and techniques to keep the content fresh and relevant.
 
-### Feedback, Sucess Stories and Improvement
-- Introduce a feedback system where users can share their experiences, their Sucess Stories and suggestions for improving the website's features and content.
-
 ### Dynamic Content Updates
 - Photos and fonts will be updated regularly based on user preferences and client feedback to ensure the website remains visually appealing and relevant.
 
 ### Motivational Videos
 - A section for motivational and inspiring videos will be added in the next submission.
+
+### Feedback, Sucess Stories and Improvement
+- Introduce a feedback system where users can share their experiences, their Sucess Stories and suggestions for improving the website's features and content.
+
+## Acknowledgment
+
+- I would like to extend my heartfelt thanks to [Code Institute](https://codeinstitute.net) for providing this incredible platform and the opportunity to develop "Unwind Your Mind." 
+
+- Special thanks to the instructors and mentors - Emma Lamont, Spencer and Ruairidh MacArthur for their invaluable guidance and support throughout the process. 
+
+- I am also deeply grateful to my family for their unwavering encouragement and belief in my abilities. This project would not have been possible without their support.
+
+
+
+
 
 
 

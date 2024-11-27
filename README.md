@@ -189,5 +189,34 @@ This code has been validated through HTML and CSS validators, and necessary chan
 
 ## Credits
 
+### Content References
+
+#### Copilot 
+
+- I utilized GitHub Copilot to assist in generating content for the website. By drawing inspiration from similar wellness platforms, Copilot provided valuable suggestions and helped refine the text to ensure it was engaging and informative.
+
+#### Wellness Tips
+
+- The tips used in my website are inspired by the valuable resources provided by the NHS, particularly their mental well-being tips. The images accompanying these tips are also sourced from the NHS website to ensure authenticity and relevance.
+
+- [NHS Mental Well-being Tips](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/top-tips-to-improve-your-mental-wellbeing/)
+
+#### Other Content
+
+- The guided meditations and relaxation techniques were inspired by various mindfulness and wellness websites, including [Headspace](https://www.headspace.com) and [Calm](https://www.calm.com).
+
+- User stories and client goals were developed based on common user needs and feedback from similar wellness platforms.
+
+### Media References
+
+- The featured image and other visuals were sourced from [Unsplash](https://unsplash.com), a platform for high-quality, royalty-free images.
+- Some images used throughout the website were sourced from [Google Images](https://images.google.com).
+- Certain images, particularly those accompanying wellness tips, were sourced from the NHS website to ensure authenticity and relevance.
+- Icons used throughout the website were provided by [Font Awesome](https://fontawesome.com).
+- The color scheme and typography images were created using design tools and resources from [Coolors](https://coolors.co) and [Google Fonts](https://fonts.google.com).
+- Wireframes were designed using [Balsamiq](https://balsamiq.com), a tool for creating low-fidelity wireframes.
+- Screenshots for testing and validation were captured using the Snipping Tool and [Google DevTools](https://developers.google.com/web/tools/chrome-devtools).
+- Lighthouse testing results were generated using the built-in Lighthouse tool in Chrome DevTools.
+- HTML and CSS validation was performed using the [W3C Markup Validation Service](https://validator.w3.org) and [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator).
 
 

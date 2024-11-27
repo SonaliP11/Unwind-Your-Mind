@@ -199,7 +199,7 @@ This code has been validated through HTML and CSS validators, and necessary chan
 
 - The tips used in my website are inspired by the valuable resources provided by the NHS, particularly their mental well-being tips. The images accompanying these tips are also sourced from the NHS website to ensure authenticity and relevance.
 
-- [NHS Mental Well-being Tips](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/top-tips-to-improve-your-mental-wellbeing/){:target="_blank"}
+- [NHS Mental Well-being Tips](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/top-tips-to-improve-your-mental-wellbeing/)
 
 #### Other Content
 

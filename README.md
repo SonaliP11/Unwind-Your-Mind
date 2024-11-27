@@ -211,12 +211,43 @@ This code has been validated through HTML and CSS validators, and necessary chan
 
 - The featured image and other visuals were sourced from [Unsplash](https://unsplash.com), a platform for high-quality, royalty-free images.
 - Some images used throughout the website were sourced from [Google Images](https://images.google.com).
-- Certain images, particularly those accompanying wellness tips, were sourced from the NHS website to ensure authenticity and relevance.
+- Certain images, particularly those accompanying wellness tips, were sourced from the NHS website [NHS Mental Well-being Tips](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/top-tips-to-improve-your-mental-wellbeing/) to ensure authenticity and relevance.
 - Icons used throughout the website were provided by [Font Awesome](https://fontawesome.com).
 - The color scheme and typography images were created using design tools and resources from [Coolors](https://coolors.co) and [Google Fonts](https://fonts.google.com).
 - Wireframes were designed using [Balsamiq](https://balsamiq.com), a tool for creating low-fidelity wireframes.
 - Screenshots for testing and validation were captured using the Snipping Tool and [Google DevTools](https://developers.google.com/web/tools/chrome-devtools).
 - Lighthouse testing results were generated using the built-in Lighthouse tool in Chrome DevTools.
 - HTML and CSS validation was performed using the [W3C Markup Validation Service](https://validator.w3.org) and [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator).
+
+## Future Features
+
+### Sign Up for Events
+- Implement a feature that allows users to sign up for wellness events, workshops and webinars directly through the website.
+
+### One-on-One Therapy Sessions
+- Expand the website to offer more one-on-one therapy sessions with licensed professionals, providing personalized support and guidance.
+
+### Thank You Message
+
+When a user clicks on the "Need Help" button and fills out the form, they will receive the kind thank you message:
+
+### Welcome Email
+
+When a user signs up or requests help, they will receive the welcoming email.
+
+### Expand Resources or Support Library
+- Increase the variety of motivational quotes, continuously add new articles, tips and techniques to keep the content fresh and relevant.
+
+### Feedback, Sucess Stories and Improvement
+- Introduce a feedback system where users can share their experiences, their Sucess Stories and suggestions for improving the website's features and content.
+
+### Dynamic Content Updates
+- Photos and fonts will be updated regularly based on user preferences and client feedback to ensure the website remains visually appealing and relevant.
+
+### Motivational Videos
+- A section for motivational and inspiring videos will be added in the next submission.
+
+
+
 
 
